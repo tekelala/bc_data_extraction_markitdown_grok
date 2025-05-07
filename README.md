@@ -77,6 +77,12 @@ streamlit run app.py
 
 ---
 
+## More from the Author
+
+Interested in AI, automation, and the future of business? Check out my Substack: [businesscyborgs.substack.com](https://businesscyborgs.substack.com/)
+
+---
+
 ## License
 
 MIT License
